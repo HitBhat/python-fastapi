@@ -2,6 +2,8 @@
 
 Solved Items
 
+**This is my first python repository, in case any information is missing which could be beneficial to understand more, please feel free to reach out**
+
 1. Scrapping the shared website using requests, BeautifulSoup libraries etc.
 2. A static token was created for authentication. 
 3. Error handling for any kind of HTTPFailure or ConnectionFailure has been shared. 
